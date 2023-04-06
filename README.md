@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm khaled saad abbass</h1>
-<h3 align="center">A passionate SOftware developer from Egypt</h3>
+<h3 align="center">A passionate Software developer from Egypt</h3>
 
 - 🔭 I’m currently working at [Atadel](https://atadel.ca/)
 
