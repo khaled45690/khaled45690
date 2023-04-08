@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1ufW9WTXgWnoVh0VyfvuRd0sYLVF7Cu4u/view?usp=sharing)
 
+- my latest open source projects [interviewApp](https://github.com/khaled45690/e-commerce_kortobaa) and [MSSQL_App](https://github.com/khaled45690/MSSQL_test)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khaled-saad-3b94b817b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-saad-3b94b817b" height="30" width="40" /></a>
