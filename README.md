@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently actively searching for great opportunities
 
-- 🌱 I’m currently learning **Cloud engineering**
+- 🌱 I’m currently enrolled in master degree in **Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khaled45690](https://github.com/khaled45690)
 
 - 💬 Ask me about **Flutter , Nodejs**
 
-- 📫 How to reach me **k.saad1281@gmail.com**
+- 📫 How to reach me **khaled.saad.abbass@gmail.com**
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1V521a_Orp3S7LOZ4ypU6Xwc2ZV0UsHol/view?usp=sharing)
 
